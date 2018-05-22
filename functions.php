@@ -1,4 +1,6 @@
-<?php
+<?php function template($path, $array_path){
+    
+}
 /**
  * Created by PhpStorm.
  * User: aerovir
