@@ -1,5 +1,5 @@
 <?php function template($path, $array_path){
-    
+    print 'test';
 }
 /**
  * Created by PhpStorm.
